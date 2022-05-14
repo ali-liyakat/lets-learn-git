@@ -3,7 +3,7 @@ using namespace std;
 int main(){
     int a=10,b=20;
     int sum=a+b;
-    cout<<sum;
+    cout<<"the sum is"<<sum;
     return 0;
 
 }
